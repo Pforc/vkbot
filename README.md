@@ -28,7 +28,8 @@
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] Custom File Caption
-- [x] Group Broadcast 
+- [x] Group Broadcast
+- [x] Force Sub
 - [x] AutoFilter Auto Delete
 - [x] Junk Group & Users Clearing On Database
 - [x] Global Filter
